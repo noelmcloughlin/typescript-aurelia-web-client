@@ -1,6 +1,13 @@
-# `my-aurelia-polymer-project`
+# `typescript-aurelia-web-client`
 
 This project is bootstrapped by [aurelia-cli](https://github.com/aurelia/cli).
+
+Single Page Application (SPA) Web Client
+
+* [x] Front-end [ aurelia, typescript, webpack, leaflet ]
+* [x] Components: [ mocha, chai, lodash, axios ]
+* [x] Backend [ hapi-auth-cookie, hapi-auth-jwt, json-web-token ]
+
 
 For more information, go to https://aurelia.io/docs/cli/webpack
 
